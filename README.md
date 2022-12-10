@@ -1,5 +1,5 @@
 # Credit_card_customers_segmentation
 
-Hello everyone, this project about Credit_card_customers_segmentation using machine learning.<br />
-The dataset is Credit card customers.<br />
-Iam using Python and some library to make this machine learning.<br />
+Hello everyone! This project is about credit card customer segmentation using machine learning <br />
+The dataset consists of credit card customers <br />
+I'm using Python and a few libraries to create this machine-learning project.<br />
